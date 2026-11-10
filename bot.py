@@ -107,4 +107,4 @@ async def rules(ctx):
     embed.add_field(name="4️⃣ المواضيع الحساسة", value="يُمنع منعاً باتاً التطرق للمواضيع السياسية أو الطائفية.", inline=False)
     embed.set_footer(text="الإدارة تحظى بالحق الكامل لمعاقبة أي مخالف.")
     await ctx.send(embed=embed)
-
+bot.run("MTU2OTczNzM5ODIxMDc5MzUxMg.GC8wRz.kmCj9PNuZNzxpGeUKRPYcr0wQaAxbPlaYdXun4")
